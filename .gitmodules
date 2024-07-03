@@ -1,0 +1,36 @@
+[submodule "CS50AI-Degrees"]
+	path = CS50AI-Degrees
+	url = https://github.com/veronicamars73/CS50AI-Degrees.git
+[submodule "CS50AI-Tic-Tac-Toe"]
+	path = CS50AI-Tic-Tac-Toe
+	url = https://github.com/veronicamars73/CS50AI-Tic-Tac-Toe.git
+[submodule "CS50AI-Knights"]
+	path = CS50AI-Knights
+	url = https://github.com/veronicamars73/CS50AI-Knights.git
+[submodule "CS50AI-Minesweeper"]
+	path = CS50AI-Minesweeper
+	url = https://github.com/veronicamars73/CS50AI-Minesweeper.git
+[submodule "CS50AI-PageRank"]
+	path = CS50AI-PageRank
+	url = https://github.com/veronicamars73/CS50AI-PageRank.git
+[submodule "CS50AI-Heredity"]
+	path = CS50AI-Heredity
+	url = https://github.com/veronicamars73/CS50AI-Heredity.git
+[submodule "CS50AI-Crossword"]
+	path = CS50AI-Crossword
+	url = https://github.com/veronicamars73/CS50AI-Crossword.git
+[submodule "CS50AI-Shopping"]
+	path = CS50AI-Shopping
+	url = https://github.com/veronicamars73/CS50AI-Shopping.git
+[submodule "CS50AI-Nim"]
+	path = CS50AI-Nim
+	url = https://github.com/veronicamars73/CS50AI-Nim.git
+[submodule "CS50AI-Traffic"]
+	path = CS50AI-Traffic
+	url = https://github.com/veronicamars73/CS50AI-Traffic.git
+[submodule "CS50AI-Parser"]
+	path = CS50AI-Parser
+	url = https://github.com/veronicamars73/CS50AI-Parser.git
+[submodule "CS50AI-Attention"]
+	path = CS50AI-Attention
+	url = https://github.com/veronicamars73/CS50AI-Attention.git
